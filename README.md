@@ -8,6 +8,8 @@
 **Format**: PyTorch `.pth` + Python plug-and-play pipeline  
 **Usage**: Plug-and-play via `from model import Pipeline`
 
+[![Watch the video](https://d11a6trkgmumsb.cloudfront.net/original/4X/f/d/d/fddca474f1cf42bdf1c516a8f2e317eadfa7817f.jpeg)](https://raw.githubusercontent.com/vyomie/artha/main/explainatory.mp4)
+
 ---
 
 ## 🌍 World's First & Most Affordable Custom LLM – Built by a Teen
